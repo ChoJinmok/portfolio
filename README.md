@@ -7,7 +7,7 @@
 
 ## :pushpin: Intro
 <div style="display:flex; align-item:center;">
-<img alt="intro" src="image/intro.png" style="max-width:300px; object-fit:contain;" />
+<img alt="intro" src="image/intro.png" style="width:250px; object-fit:contain;" />
 
 - 배우는 것을 좋아합니다.
 - 서비스를 개발할 때 고객 경험을 최우선으로 합니다.
