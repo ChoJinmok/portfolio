@@ -1,18 +1,22 @@
 # 포트폴리오
->사람들과 함께 꿈을 실현시키고 싶은   
->문제를 만나면 집요하게 파고들어 해결하는 것을 좋아하는  
+>사람들과 함께 꿈을 실현시키고 싶은    
 >프론트엔드 엔지니어, 조진목입니다.
 
 </br>
 
 ## :pushpin: Intro
-<div style="display:flex; align-item:center;">
-<img alt="intro" src="image/intro.png" style="width:250px; object-fit:contain;" />
+<table>
+<td>
+<img alt="intro" src="image/intro.png" style="width:300px; object-fit:contain;" />
+</td>
+<td>    
 
 - 배우는 것을 좋아합니다.
 - 서비스를 개발할 때 고객 경험을 최우선으로 합니다.
-- 저 뿐만 아니라 함께 성장하는 것을 좋아합니다.  
-</div>
+- 저 뿐만 아니라 함께 성장하는 것을 좋아합니다. 
+- 문제를 만나면 집요하게 파고들어 해결하는 것을 좋아합니다.
+</td>
+</table>
 
 </br>
 
